@@ -1,0 +1,32 @@
+
+        body {
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            background-color:lightblue;
+            margin: 20px;
+            padding: 20px;
+            text-align: center;
+        }
+
+        h1 {
+            color:red;
+        }
+
+        p {
+            color: blue;
+        }
+
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+            background-color: black;
+            color: purple;
+            border: none;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: grey;
+        }
+
+
+   

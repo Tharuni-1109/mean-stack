@@ -1,0 +1,24 @@
+*{
+    text-align: center;
+}
+.head h1{
+    border: 20px;
+    color: blue;
+}
+
+.head{
+    background-color: aqua;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+
+.body {
+    border-radius: 6px;
+    border: 2px solid brown;
+    color: brown;
+    background-color: blueviolet;
+    margin-right: 500px;
+    margin-left: 500px;
+
+}

@@ -1,0 +1,22 @@
+body{
+    margin: 200px;
+    margin-left: 70px;
+    background-color: brown;
+    margin-right: 40px;
+}
+    ol{
+    padding-left: 60px;
+    padding-top: 20px;
+    margin: 70px;
+    margin-bottom: 900px;
+    padding-bottom: 100px;
+    margin-right:20%;
+    background: green;
+    width: 150px;
+    height: 4px;
+    }
+    footer{
+       border-color: blanchedalmond; 
+       margin-bottom: 1000in;
+    }
+

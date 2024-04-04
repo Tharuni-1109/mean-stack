@@ -1,0 +1,34 @@
+.head {
+    background-color: lightgoldenrodyellow;
+    text-align: center;
+    width: 100%;
+    height: 100px;
+    line-height: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+}
+.content {
+    background-color: wheat;
+    text-align: center;
+    width: 30%;
+    float: left;
+    height: 200px;
+    line-height: 22px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+.result {
+    float: left;
+    width: 70%;
+    background-color: rgb(137, 207, 240);
+    height: 200px;
+}
+.footer {
+    background: rgb(138, 154, 91);
+    text-align: center;
+    width: 100%;
+    height: 80px;
+    line-height: 80px;
+    float: right;
+    font-family: 'Times New Roman', Times, serif;
+}

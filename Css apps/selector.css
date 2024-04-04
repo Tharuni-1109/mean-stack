@@ -1,0 +1,31 @@
+/*                                                                                                                                                                                                                                                                             ing styles
+applying styles
+*/
+
+/* 
+element style
+*/
+/*h2{
+    color:red;
+}*/
+
+/* grouping selector*/
+h2,h3,p{
+    color:red;
+}
+/* id selector */
+#first{
+    color: pink;
+}
+/* class selector*/
+.second{
+    color: black;
+}
+/*universal selector*/
+*{
+    text-align: center;
+}
+div{
+    border:2px solid red;
+    color:blue;
+}

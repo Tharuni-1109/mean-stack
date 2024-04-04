@@ -1,0 +1,46 @@
+header{
+    background-color:rgb(119, 132, 132);
+    height: 100px;
+    text-align: center;
+    padding-top: 50px;
+    font-size:20px;
+}
+    nav{
+        width: 30%;
+        background-color: rgb(139, 109, 132);
+        height: 300px;
+        padding-top: 30px;
+        font-size:20px;
+        float:left;
+      }
+      nav ul{
+        list-style-type: none;
+      }
+      
+      nav ul li a{
+         text-decoration: none;
+      }
+      
+      article{
+        width: 70%;
+        background-color: rgb(231, 185, 120);
+        height: 300px;
+        float: left;
+        padding-top: 30px;
+        font-size:20px;
+        float: left;
+        text-align: center;
+      }
+      section::after{
+           display:  table;
+           content: "";
+           clear: both;
+      }
+      footer {
+        background-color:blue;
+        text-align: center;
+        padding: 30px 20px;
+        font-size: 20px;
+      
+      
+}
